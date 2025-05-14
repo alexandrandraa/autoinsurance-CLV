@@ -23,7 +23,7 @@
 - Applied **log/sqrt transforms** to reduce skewness.  
 
 ### **2. Encoding**  
-- **One-Hot**: `Vehicle Class`, `Marital Status`  
+- **One-Hot**: `Vehicle Class`, `Marital Status`, `Renew Offer Type`, `EmploymentStatus`
 - **Ordinal**: `Education`, `Coverage` (custom business logic).  
 
 ### **3. Scaling**  
